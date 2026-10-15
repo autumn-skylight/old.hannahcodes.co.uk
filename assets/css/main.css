@@ -1870,6 +1870,11 @@ img.project_bg {
     linear-gradient(135deg, rgba(30, 35, 50, 0.25), rgba(30, 35, 50, 0.25)),
     url("https://assets.hannahcodes.co.uk/images/projects/hc-v12.jpg");
 }
+.project-card__thumb--v13{
+background-image: 
+linear-gradient(135deg, rgba(30,35,50,0.25), rgba(30,35,50,0.25), url("https://assets.hannahcodes.co.uk/images/projects/hc-v13.png"));
+}
+
 .project-card__thumb--v14 {
   background-image:
     linear-gradient(135deg, rgba(30, 35, 50, 0.25), rgba(30, 35, 50, 0.25)),
