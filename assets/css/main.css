@@ -1852,7 +1852,36 @@ img.project_bg {
     linear-gradient(135deg, rgba(30, 35, 50, 0.25), rgba(30, 35, 50, 0.25)),
     url("https://assets.hannahcodes.co.uk/images/projects/hc-v3.jpg");
 }
-
+.project-card__thumb--v4 {
+  background-image:
+    linear-gradient(135deg, rgba(30, 35, 50, 0.25), rgba(30, 35, 50, 0.25)),
+    url("https://assets.hannahcodes.co.uk/images/projects/hc-v4.jpg");
+}
+.project-card__thumb--v5 {
+  background-image:
+    linear-gradient(135deg, rgba(30, 35, 50, 0.25), rgba(30, 35, 50, 0.25)),
+    url("https://assets.hannahcodes.co.uk/images/projects/hc-v5.png");
+}
+.project-card__thumb--v6 {
+  background-image:
+    linear-gradient(135deg, rgba(30, 35, 50, 0.25), rgba(30, 35, 50, 0.25)),
+    url("https://assets.hannahcodes.co.uk/images/projects/hc-v6.png");
+}
+.project-card__thumb--v7 {
+  background-image:
+    linear-gradient(135deg, rgba(30, 35, 50, 0.25), rgba(30, 35, 50, 0.25)),
+    url("https://assets.hannahcodes.co.uk/images/projects/hc-v7.png");
+}
+.project-card__thumb--v8 {
+  background-image:
+    linear-gradient(135deg, rgba(30, 35, 50, 0.25), rgba(30, 35, 50, 0.25)),
+    url("https://assets.hannahcodes.co.uk/images/projects/hc-v8.png");
+}
+.project-card__thumb--v9 {
+  background-image:
+    linear-gradient(135deg, rgba(30, 35, 50, 0.25), rgba(30, 35, 50, 0.25)),
+    url("https://assets.hannahcodes.co.uk/images/projects/hc-v9.png");
+}
 .project-card__thumb--v10 {
   background-image:
     linear-gradient(135deg, rgba(30, 35, 50, 0.25), rgba(30, 35, 50, 0.25)),
@@ -1870,9 +1899,10 @@ img.project_bg {
     linear-gradient(135deg, rgba(30, 35, 50, 0.25), rgba(30, 35, 50, 0.25)),
     url("https://assets.hannahcodes.co.uk/images/projects/hc-v12.jpg");
 }
-.project-card__thumb--v13{
-background-image: 
-linear-gradient(135deg, rgba(30,35,50,0.25), rgba(30,35,50,0.25)), url("https://assets.hannahcodes.co.uk/images/projects/hc-v13.jpg");
+.project-card__thumb--v13 {
+  background-image:
+    linear-gradient(135deg, rgba(30, 35, 50, 0.25), rgba(30, 35, 50, 0.25)),
+    url("https://assets.hannahcodes.co.uk/images/projects/hc-v13.jpg");
 }
 
 .project-card__thumb--v14 {
